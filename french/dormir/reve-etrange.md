@@ -4,6 +4,8 @@ Vous parvenez à vous rendormir mais faites le plus étrange des rêves,
 Vous vous reveillez ce qui semble etre quelques heures plus tard,
  de tres bonne humeur mais les pieds meurtris pour une etrange raison.
 
+Il sont devenus tout bleus avec des pois orange.
+
 Que faites-vous ?
 
 [Je cherche une sortie](../sortie/chercher-la-sortie.md)
